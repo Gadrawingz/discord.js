@@ -27,3 +27,5 @@ docs/**/*
 # Miscellaneous
 .tmp/
 coverage/
+
+# Extra files to be ignored by Git
