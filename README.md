@@ -16,6 +16,10 @@
 	</p>
 </div>
 
+## N.B
+
+This is not original version because it's cloned from original repository and got cloned and forked by Gad to make some personal changes which will not affect origninal repo.
+
 ## About
 
 discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
